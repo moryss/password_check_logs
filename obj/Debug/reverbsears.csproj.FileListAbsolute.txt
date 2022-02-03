@@ -1,0 +1,7 @@
+C:\Users\root\source\repos\reverbsears\bin\Debug\reverbsears.exe.config
+C:\Users\root\source\repos\reverbsears\bin\Debug\reverbsears.exe
+C:\Users\root\source\repos\reverbsears\bin\Debug\reverbsears.pdb
+C:\Users\root\source\repos\reverbsears\obj\Debug\reverbsears.csprojAssemblyReference.cache
+C:\Users\root\source\repos\reverbsears\obj\Debug\reverbsears.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\reverbsears\obj\Debug\reverbsears.exe
+C:\Users\root\source\repos\reverbsears\obj\Debug\reverbsears.pdb
